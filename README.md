@@ -2,7 +2,10 @@
 
 This project provides a Prometheus exporter for energy meters with a P1 port, parsing OBIS codes and exposing metrics for monitoring purposes.
 
+![Dashboard](doc/dashboard.png)
+
 ## What is a P1 Port?
+
 
 The **P1 port** is a standardized communication interface found on smart energy meters, particularly in Europe. It allows real-time access to detailed energy usage and production data. The port outputs data in a readable format, enabling integration with home automation systems and monitoring tools.
 
