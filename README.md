@@ -125,6 +125,3 @@ Contributions are welcome. Please submit a pull request or open an issue for any
 ## License
 
 This project is open-source and available under the MIT License.
-
-
-git remote add origin git@github.com:fiddeb/p1_prometheus.git
